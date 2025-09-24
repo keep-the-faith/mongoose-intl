@@ -1,6 +1,6 @@
 {
   "name": "mongoose-intl",
-  "version": "3.4.0",
+  "version": "3.4.1",
   "description": "Mongoose schema plugin for multilingual fields",
   "main": "lib/mongoose-intl.js",
   "types": "types/mongoose-intl.d.ts",
